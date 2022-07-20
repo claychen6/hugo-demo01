@@ -1,6 +1,12 @@
 ---
 label: new01
 hide_body: false
-fields: []
+fields:
+- name: ___
+  type: text
+  config:
+    required: false
+  label: 啊啊啊
+  description: 的点点滴滴
 pages:
 - content/News/New01.md
