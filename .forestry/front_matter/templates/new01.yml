@@ -2,3 +2,5 @@
 label: new01
 hide_body: false
 fields: []
+pages:
+- content/News/New01.md
